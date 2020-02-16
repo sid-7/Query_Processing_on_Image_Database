@@ -1,0 +1,8 @@
+opencv-contrib-python==3.4.0.12
+scipy
+scikit-image
+enum
+tqdm
+console-menu
+pandas
+scikit-learn
