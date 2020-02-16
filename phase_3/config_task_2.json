@@ -1,0 +1,8 @@
+{
+  "image_base_path_train": "/Users/sandeepkunichi/Work/ASU/2019_3/CSE515/DEV/cse515-mwdb-project/data/phase3_sample_data/Labelled/Set2/",
+  "image_base_path_test": "/Users/sandeepkunichi/Work/ASU/2019_3/CSE515/DEV/cse515-mwdb-project/data/phase3_sample_data/Unlabelled/Set2/",
+  "storage_path_train": "/Users/sandeepkunichi/Work/ASU/2019_3/CSE515/DEV/cse515-mwdb-project/data/store/task_2/train/",
+  "storage_path_test": "/Users/sandeepkunichi/Work/ASU/2019_3/CSE515/DEV/cse515-mwdb-project/data/store/task_2/test/",
+  "output_path": "/Users/sandeepkunichi/Work/ASU/2019_3/CSE515/DEV/cse515-mwdb-project/data/Output/",
+  "info_path": "/Users/sandeepkunichi/Work/ASU/2019_3/CSE515/DEV/cse515-mwdb-project/data/HandsInfo/HandInfo.csv"
+}
